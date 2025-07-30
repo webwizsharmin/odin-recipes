@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F3E9DC;
+}
+
+h1 {
+    color: olive;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.span {
+    color: #C75D2C;
+}
+
+ul {
+    text-align: center;
+
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    margin: 20px 10px;
+    border: 2px solid olive;
+    font-size: 24px;
+}
+
+a {
+    color: #C75D2C;
+    text-decoration: none;
+}
+
+/* a:hover {
+    background-color: #C75D2C;
+    color: #F3E9DC;
+} */
